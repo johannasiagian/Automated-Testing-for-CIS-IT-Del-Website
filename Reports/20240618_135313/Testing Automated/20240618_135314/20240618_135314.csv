@@ -1,0 +1,75 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testing Automated,Chrome 126.0.0.0,Untuk Menu Keasramaan dan Kemahasiswaan,,18-06-2024 13:53:20,18-06-2024 13:55:07,1m - 47.299s,FAILED
+,,,,,,,
+Test Cases/Asrama dan Kemahasiswaan/Izin Bermalam,Chrome 126.0.0.0,,,18-06-2024 13:53:53,18-06-2024 13:54:03,9.739s,FAILED
+"openBrowser("""")",Chrome 126.0.0.0,,,18-06-2024 13:53:53,18-06-2024 13:53:54,0.639s,PASSED
+"navigateToUrl(""https://cis.del.ac.id/user/login"")",Chrome 126.0.0.0,,,18-06-2024 13:53:54,18-06-2024 13:53:55,0.888s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Username_LoginFormusername""), ""if322061"")",Chrome 126.0.0.0,,,18-06-2024 13:53:55,18-06-2024 13:53:55,0.807s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Password_LoginFormpassword""), ""r0h5FLeGCTYg+BkHRFNenXgKWnGicbHL"")",Chrome 126.0.0.0,,,18-06-2024 13:53:55,18-06-2024 13:53:56,0.268s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Sign In""))",Chrome 126.0.0.0,,,18-06-2024 13:53:56,18-06-2024 13:53:56,0.253s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/span_Asrama  Kemahasiswaan""))",Chrome 126.0.0.0,,,18-06-2024 13:53:56,18-06-2024 13:53:59,2.671s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Izin Bermalam""))",Chrome 126.0.0.0,,,18-06-2024 13:53:59,18-06-2024 13:53:59,0.915s,PASSED
+"click(findTestObject(""Object Repository/Page_Izin Bermalam/span_Request IB""))",Chrome 126.0.0.0,,,18-06-2024 13:53:59,18-06-2024 13:54:00,0.967s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Bermalam/input_Rencana Berangkat_IzinBermalamrencana_2b76db""))",Chrome 126.0.0.0,,,18-06-2024 13:54:00,18-06-2024 13:54:01,0.477s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Bermalam/td_20""))",Chrome 126.0.0.0,,,18-06-2024 13:54:01,18-06-2024 13:54:01,0.467s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Bermalam/span_1800""))",Chrome 126.0.0.0,,,18-06-2024 13:54:01,18-06-2024 13:54:02,0.686s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Bermalam/span_1800""))",Chrome 126.0.0.0,,,18-06-2024 13:54:02,18-06-2024 13:54:03,0.689s,FAILED
+,,,,,,,
+Test Cases/Asrama dan Kemahasiswaan/Izin Keluar,Chrome 126.0.0.0,,,18-06-2024 13:54:30,18-06-2024 13:54:40,9.567s,FAILED
+"openBrowser("""")",Chrome 126.0.0.0,,,18-06-2024 13:54:30,18-06-2024 13:54:31,0.653s,PASSED
+"navigateToUrl(""https://cis.del.ac.id/user/login"")",Chrome 126.0.0.0,,,18-06-2024 13:54:31,18-06-2024 13:54:32,0.913s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Username_LoginFormusername""), ""if322061"")",Chrome 126.0.0.0,,,18-06-2024 13:54:32,18-06-2024 13:54:33,0.820s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Password_LoginFormpassword""), ""r0h5FLeGCTYg+BkHRFNenXgKWnGicbHL"")",Chrome 126.0.0.0,,,18-06-2024 13:54:33,18-06-2024 13:54:33,0.277s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Sign In""))",Chrome 126.0.0.0,,,18-06-2024 13:54:33,18-06-2024 13:54:33,0.261s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Asrama  Kemahasiswaan""))",Chrome 126.0.0.0,,,18-06-2024 13:54:33,18-06-2024 13:54:36,2.301s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Izin Keluar""))",Chrome 126.0.0.0,,,18-06-2024 13:54:36,18-06-2024 13:54:37,0.875s,PASSED
+"click(findTestObject(""Object Repository/Page_Izin Keluar/a_Request Izin Keluar""))",Chrome 126.0.0.0,,,18-06-2024 13:54:37,18-06-2024 13:54:38,1.125s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Keluar/input_Rencana Berangkat_IzinKeluarrencana_b_bd1150""))",Chrome 126.0.0.0,,,18-06-2024 13:54:38,18-06-2024 13:54:38,0.482s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Keluar/td_18""))",Chrome 126.0.0.0,,,18-06-2024 13:54:38,18-06-2024 13:54:39,0.474s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Keluar/span_1500""))",Chrome 126.0.0.0,,,18-06-2024 13:54:39,18-06-2024 13:54:39,0.687s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Keluar/span_1500""))",Chrome 126.0.0.0,,,18-06-2024 13:54:39,18-06-2024 13:54:40,0.690s,FAILED
+,,,,,,,
+Test Cases/Asrama dan Kemahasiswaan/Izin Kolaboratif,Chrome 126.0.0.0,,,18-06-2024 13:54:40,18-06-2024 13:54:53,12.809s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,18-06-2024 13:54:40,18-06-2024 13:54:41,0.634s,PASSED
+"navigateToUrl(""https://cis.del.ac.id/user/login"")",Chrome 126.0.0.0,,,18-06-2024 13:54:41,18-06-2024 13:54:42,0.836s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Username_LoginFormusername""), ""if322061"")",Chrome 126.0.0.0,,,18-06-2024 13:54:42,18-06-2024 13:54:42,0.814s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Password_LoginFormpassword""), ""r0h5FLeGCTYg+BkHRFNenXgKWnGicbHL"")",Chrome 126.0.0.0,,,18-06-2024 13:54:42,18-06-2024 13:54:43,0.269s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Sign In""))",Chrome 126.0.0.0,,,18-06-2024 13:54:43,18-06-2024 13:54:43,0.262s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/span_Asrama  Kemahasiswaan""))",Chrome 126.0.0.0,,,18-06-2024 13:54:43,18-06-2024 13:54:46,3.255s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Izin Kolaboratif""))",Chrome 126.0.0.0,,,18-06-2024 13:54:46,18-06-2024 13:54:47,0.980s,PASSED
+"click(findTestObject(""Object Repository/Page_Izin Tambahan Jam Kolaboratif/a_Request izin""))",Chrome 126.0.0.0,,,18-06-2024 13:54:47,18-06-2024 13:54:48,0.821s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Tambahan Jam Kolaboratif/input_Rencana Mulai_IzinKolaboratifrencana_mulai""))",Chrome 126.0.0.0,,,18-06-2024 13:54:48,18-06-2024 13:54:48,0.481s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Tambahan Jam Kolaboratif/td_20""))",Chrome 126.0.0.0,,,18-06-2024 13:54:48,18-06-2024 13:54:49,0.479s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Tambahan Jam Kolaboratif/input_Rencana Berakhir_IzinKolaboratifrenca_cc4134""))",Chrome 126.0.0.0,,,18-06-2024 13:54:49,18-06-2024 13:54:49,0.484s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Tambahan Jam Kolaboratif/td_21""))",Chrome 126.0.0.0,,,18-06-2024 13:54:49,18-06-2024 13:54:50,0.479s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Tambahan Jam Kolaboratif/input_Batas Waktu_IzinKolaboratifbatas_waktu""))",Chrome 126.0.0.0,,,18-06-2024 13:54:50,18-06-2024 13:54:50,0.487s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Tambahan Jam Kolaboratif/span_1300""))",Chrome 126.0.0.0,,,18-06-2024 13:54:50,18-06-2024 13:54:51,0.479s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Tambahan Jam Kolaboratif/span_1350""))",Chrome 126.0.0.0,,,18-06-2024 13:54:51,18-06-2024 13:54:52,0.698s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Tambahan Jam Kolaboratif/label_Keterangan""))",Chrome 126.0.0.0,,,18-06-2024 13:54:52,18-06-2024 13:54:52,0.482s,PASSED
+"setText(findTestObject(""Object Repository/Page_Request Izin Tambahan Jam Kolaboratif/textarea_Keterangan_IzinKolaboratifdesc""), ""Automated Testing"")",Chrome 126.0.0.0,,,18-06-2024 13:54:52,18-06-2024 13:54:53,0.503s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Tambahan Jam Kolaboratif/button_Buat Baru""))",Chrome 126.0.0.0,,,18-06-2024 13:54:53,18-06-2024 13:54:53,0.248s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,18-06-2024 13:54:53,18-06-2024 13:54:53,0.090s,PASSED
+,,,,,,,
+Test Cases/Asrama dan Kemahasiswaan/Izin Ruangan,Chrome 126.0.0.0,,,18-06-2024 13:54:53,18-06-2024 13:55:07,14.271s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,18-06-2024 13:54:53,18-06-2024 13:54:53,0.555s,PASSED
+"navigateToUrl(""https://cis.del.ac.id/user/login"")",Chrome 126.0.0.0,,,18-06-2024 13:54:53,18-06-2024 13:54:54,0.839s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Username_LoginFormusername""), ""if322061"")",Chrome 126.0.0.0,,,18-06-2024 13:54:54,18-06-2024 13:54:55,0.794s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Password_LoginFormpassword""), ""r0h5FLeGCTYg+BkHRFNenXgKWnGicbHL"")",Chrome 126.0.0.0,,,18-06-2024 13:54:55,18-06-2024 13:54:55,0.272s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Sign In""))",Chrome 126.0.0.0,,,18-06-2024 13:54:55,18-06-2024 13:54:56,0.262s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/span_Asrama  Kemahasiswaan""))",Chrome 126.0.0.0,,,18-06-2024 13:54:56,18-06-2024 13:54:58,2.489s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Izin Ruangan""))",Chrome 126.0.0.0,,,18-06-2024 13:54:58,18-06-2024 13:54:59,1.346s,PASSED
+"click(findTestObject(""Object Repository/Page_Izin Penggunaan Ruangan/a_Request""))",Chrome 126.0.0.0,,,18-06-2024 13:54:59,18-06-2024 13:55:00,0.866s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/input_Rencana Mulai_IzinRuanganrencana_mulai""))",Chrome 126.0.0.0,,,18-06-2024 13:55:00,18-06-2024 13:55:01,0.476s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/td_20""))",Chrome 126.0.0.0,,,18-06-2024 13:55:01,18-06-2024 13:55:01,0.486s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/span_1000""))",Chrome 126.0.0.0,,,18-06-2024 13:55:01,18-06-2024 13:55:02,0.705s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/span_1025""))",Chrome 126.0.0.0,,,18-06-2024 13:55:02,18-06-2024 13:55:02,0.476s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/input_Rencana Berakhir_IzinRuanganrencana_berakhir""))",Chrome 126.0.0.0,,,18-06-2024 13:55:02,18-06-2024 13:55:03,0.482s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/td_21""))",Chrome 126.0.0.0,,,18-06-2024 13:55:03,18-06-2024 13:55:03,0.483s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/span_1100""))",Chrome 126.0.0.0,,,18-06-2024 13:55:03,18-06-2024 13:55:04,0.696s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/span_1150""))",Chrome 126.0.0.0,,,18-06-2024 13:55:04,18-06-2024 13:55:05,0.480s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/label_Keterangan""))",Chrome 126.0.0.0,,,18-06-2024 13:55:05,18-06-2024 13:55:05,0.477s,PASSED
+"setText(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/textarea_Keterangan_IzinRuangandesc""), ""Automated Testing"")",Chrome 126.0.0.0,,,18-06-2024 13:55:05,18-06-2024 13:55:06,0.499s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/label_Lokasi""))",Chrome 126.0.0.0,,,18-06-2024 13:55:06,18-06-2024 13:55:06,0.245s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/select_Pilih RuanganGD512GD723AUDGD516GD714_0f9729""), ""11"", true)",Chrome 126.0.0.0,,,18-06-2024 13:55:06,18-06-2024 13:55:07,0.970s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Penggunaan Ruangan/button_Buat Baru""))",Chrome 126.0.0.0,,,18-06-2024 13:55:07,18-06-2024 13:55:07,0.244s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,18-06-2024 13:55:07,18-06-2024 13:55:07,0.094s,PASSED

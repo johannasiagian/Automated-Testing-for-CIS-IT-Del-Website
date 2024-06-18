@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih RuanganGD512GD723AUDGD516GD714_0f9729</name>
+   <tag></tag>
+   <elementGuidId>30d60795-8e77-42ee-b22b-51c85c8b1b67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='izinruangan-lokasi_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#izinruangan-lokasi_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Lokasi&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a523c429-bc97-47f4-ac65-ce3099f06663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>izinruangan-lokasi_id</value>
+      <webElementGuid>9a841ace-70af-4b1e-9f42-af20c49c1624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>1fc6e1bf-d331-4517-90ae-6f43c9b63562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>IzinRuangan[lokasi_id]</value>
+      <webElementGuid>d12e8e84-1c69-4f4a-993b-bd60c5e05403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Pilih Ruangan
+GD512
+GD723
+AUD
+GD516
+GD714
+GD721
+GD722
+GD724
+GD912
+GD913
+GD914
+GD923
+GD924
+GD925
+GD927
+GD928
+GD929
+GD933
+GD934
+GD935
+GD937
+GD938
+GD939
+GD942
+GD943
+GD944
+GD513
+GD514
+GD515
+GD524
+GD525
+GD711
+GD526
+GD712
+GD713
+OT
+GD725
+GD726
+LDTE
+LSK
+LSD
+GD916
+GD811
+GD812
+GD813
+GD814
+GD815
+GD825
+GD826
+GD822
+GD917
+GD824
+PJJ
+Daring
+GD511
+GD523
+GD524
+GD517
+GD527
+</value>
+      <webElementGuid>dd913869-5a13-42d9-8b5d-cbeb6688b267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;izinruangan-lokasi_id&quot;)</value>
+      <webElementGuid>216b0cac-b161-4f9a-a6a1-8d448699664e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9d35a71e-46cc-4f66-913b-b850f48e1254</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='izinruangan-lokasi_id']</value>
+      <webElementGuid>1fcb154a-4e70-4b46-a935-4038a9fd5454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[3]/div/div/select</value>
+      <webElementGuid>5681f039-aa27-4ed3-b8ba-61f6bb19dea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi'])[1]/following::select[1]</value>
+      <webElementGuid>c152c666-18a9-47a1-8efd-6b181ae947b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan'])[1]/following::select[1]</value>
+      <webElementGuid>76b3d211-a1c7-43e3-8e9c-7a780ded9e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buat Baru'])[1]/preceding::select[1]</value>
+      <webElementGuid>95adc144-6ebb-4435-aa35-cbd941d3d3a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::select[1]</value>
+      <webElementGuid>5894787c-212e-4fa4-b3da-f1c23051a746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>f07c32d5-5203-44ff-aa61-5661f9781033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'izinruangan-lokasi_id' and @name = 'IzinRuangan[lokasi_id]' and (text() = '
+Pilih Ruangan
+GD512
+GD723
+AUD
+GD516
+GD714
+GD721
+GD722
+GD724
+GD912
+GD913
+GD914
+GD923
+GD924
+GD925
+GD927
+GD928
+GD929
+GD933
+GD934
+GD935
+GD937
+GD938
+GD939
+GD942
+GD943
+GD944
+GD513
+GD514
+GD515
+GD524
+GD525
+GD711
+GD526
+GD712
+GD713
+OT
+GD725
+GD726
+LDTE
+LSK
+LSD
+GD916
+GD811
+GD812
+GD813
+GD814
+GD815
+GD825
+GD826
+GD822
+GD917
+GD824
+PJJ
+Daring
+GD511
+GD523
+GD524
+GD517
+GD527
+' or . = '
+Pilih Ruangan
+GD512
+GD723
+AUD
+GD516
+GD714
+GD721
+GD722
+GD724
+GD912
+GD913
+GD914
+GD923
+GD924
+GD925
+GD927
+GD928
+GD929
+GD933
+GD934
+GD935
+GD937
+GD938
+GD939
+GD942
+GD943
+GD944
+GD513
+GD514
+GD515
+GD524
+GD525
+GD711
+GD526
+GD712
+GD713
+OT
+GD725
+GD726
+LDTE
+LSK
+LSD
+GD916
+GD811
+GD812
+GD813
+GD814
+GD815
+GD825
+GD826
+GD822
+GD917
+GD824
+PJJ
+Daring
+GD511
+GD523
+GD524
+GD517
+GD527
+')]</value>
+      <webElementGuid>0994e1ce-d859-40d2-8dd9-b0a707b46ebc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

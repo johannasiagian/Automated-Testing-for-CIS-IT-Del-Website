@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select.20232024202220232021202220202_f3bac7</name>
+   <tag></tag>
+   <elementGuidId>7860d35d-027a-430c-a533-add880e119ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='suratpermohonankp-tahun_ajaran']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#suratpermohonankp-tahun_ajaran</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Tahun Ajaran&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>862a9d9c-7546-4c87-914a-87c43d5953e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>suratpermohonankp-tahun_ajaran</value>
+      <webElementGuid>8e5343cb-b6b3-4541-aab9-c373411c5f65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>958d9df2-0065-4efa-93c5-5d559c520eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SuratPermohonanKp[tahun_ajaran]</value>
+      <webElementGuid>de325547-e7c2-4337-845e-af646364578b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Select...
+2023/2024
+2022/2023
+2021/2022
+2020/2021
+2019/2020
+2018/2019
+2017/2018
+2016/2017
+2015/2016
+2014/2015
+2013/2014
+2012/2013
+2011/2012
+2010/2011
+2009/2010
+2008/2009
+2007/2008
+2006/2007
+2005/2006
+2004/2005
+2003/2004
+2002/2003
+2001/2002
+</value>
+      <webElementGuid>625d1e44-0c8e-402f-894c-52c9985e85a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;suratpermohonankp-tahun_ajaran&quot;)</value>
+      <webElementGuid>14e2037a-bf2d-4592-b87f-32225c786b48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='suratpermohonankp-tahun_ajaran']</value>
+      <webElementGuid>a47cdef5-1528-4a3d-ba92-bcbe5571fc3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[5]/div/select</value>
+      <webElementGuid>fcf3309c-beed-457f-9af9-a8664a989fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahun Ajaran'])[1]/following::select[1]</value>
+      <webElementGuid>f0fe4fa9-85d7-42f8-a520-9c4725be1f63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waktu Akhir Kp'])[1]/following::select[1]</value>
+      <webElementGuid>dcc2fcc7-c076-4c46-825d-f2ea8f6e8c7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request'])[1]/preceding::select[1]</value>
+      <webElementGuid>76602d99-932a-45c9-b57a-522d27081a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version'])[1]/preceding::select[1]</value>
+      <webElementGuid>ace12ba9-d571-43ca-b15b-78288cbbd54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>011c115d-9f3b-44dc-bf8d-fd36bce1b4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'suratpermohonankp-tahun_ajaran' and @name = 'SuratPermohonanKp[tahun_ajaran]' and (text() = '
+Select...
+2023/2024
+2022/2023
+2021/2022
+2020/2021
+2019/2020
+2018/2019
+2017/2018
+2016/2017
+2015/2016
+2014/2015
+2013/2014
+2012/2013
+2011/2012
+2010/2011
+2009/2010
+2008/2009
+2007/2008
+2006/2007
+2005/2006
+2004/2005
+2003/2004
+2002/2003
+2001/2002
+' or . = '
+Select...
+2023/2024
+2022/2023
+2021/2022
+2020/2021
+2019/2020
+2018/2019
+2017/2018
+2016/2017
+2015/2016
+2014/2015
+2013/2014
+2012/2013
+2011/2012
+2010/2011
+2009/2010
+2008/2009
+2007/2008
+2006/2007
+2005/2006
+2004/2005
+2003/2004
+2002/2003
+2001/2002
+')]</value>
+      <webElementGuid>db570399-a404-4d91-9676-784d17cab42a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

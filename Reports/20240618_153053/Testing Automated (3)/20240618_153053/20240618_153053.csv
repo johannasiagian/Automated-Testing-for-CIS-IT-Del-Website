@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testing Automated (3),Chrome 126.0.0.0,,,18-06-2024 15:30:57,18-06-2024 15:31:08,10.867s,PASSED
+,,,,,,,
+Test Cases/Authentication/Login,Chrome 126.0.0.0,,,18-06-2024 15:30:57,18-06-2024 15:31:02,4.994s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,18-06-2024 15:30:57,18-06-2024 15:30:59,1.590s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,18-06-2024 15:30:59,18-06-2024 15:30:59,0.087s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,18-06-2024 15:30:59,18-06-2024 15:30:59,0.576s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,18-06-2024 15:30:59,18-06-2024 15:30:59,0.091s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,18-06-2024 15:30:59,18-06-2024 15:31:00,0.563s,PASSED
+"navigateToUrl(""https://cis.del.ac.id/user/login"")",Chrome 126.0.0.0,,,18-06-2024 15:31:00,18-06-2024 15:31:01,1.081s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Username_LoginFormusername""), ""if322061"")",Chrome 126.0.0.0,,,18-06-2024 15:31:01,18-06-2024 15:31:02,0.630s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Password_LoginFormpassword""), ""r0h5FLeGCTYg+BkHRFNenXgKWnGicbHL"")",Chrome 126.0.0.0,,,18-06-2024 15:31:02,18-06-2024 15:31:02,0.271s,PASSED
+,,,,,,,
+Test Cases/Authentication/Logout,Chrome 126.0.0.0,,,18-06-2024 15:31:02,18-06-2024 15:31:08,5.820s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,18-06-2024 15:31:02,18-06-2024 15:31:03,0.628s,PASSED
+"navigateToUrl(""https://cis.del.ac.id/user/login"")",Chrome 126.0.0.0,,,18-06-2024 15:31:03,18-06-2024 15:31:04,1.047s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Username_LoginFormusername""), ""if322061"")",Chrome 126.0.0.0,,,18-06-2024 15:31:04,18-06-2024 15:31:04,0.794s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Password_LoginFormpassword""), ""r0h5FLeGCTYg+BkHRFNenXgKWnGicbHL"")",Chrome 126.0.0.0,,,18-06-2024 15:31:04,18-06-2024 15:31:05,0.276s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Sign In""))",Chrome 126.0.0.0,,,18-06-2024 15:31:05,18-06-2024 15:31:05,0.259s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/span_Johanna  Romauli Siagian""))",Chrome 126.0.0.0,,,18-06-2024 15:31:05,18-06-2024 15:31:07,2.219s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Sign out""))",Chrome 126.0.0.0,,,18-06-2024 15:31:07,18-06-2024 15:31:08,0.481s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,18-06-2024 15:31:08,18-06-2024 15:31:08,0.090s,PASSED

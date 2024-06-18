@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testing Automated,Chrome 126.0.0.0,Untuk Menu Keasramaan dan Kemahasiswaan,,18-06-2024 14:12:25,18-06-2024 14:13:08,42.845s,FAILED
+,,,,,,,
+Test Cases/Asrama dan Kemahasiswaan/Izin Keluar,Chrome 126.0.0.0,,,18-06-2024 14:12:57,18-06-2024 14:13:08,10.548s,FAILED
+"openBrowser("""")",Chrome 126.0.0.0,,,18-06-2024 14:12:57,18-06-2024 14:12:58,0.632s,PASSED
+"navigateToUrl(""https://cis.del.ac.id/user/login"")",Chrome 126.0.0.0,,,18-06-2024 14:12:58,18-06-2024 14:12:59,1.113s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Username_LoginFormusername""), ""if322061"")",Chrome 126.0.0.0,,,18-06-2024 14:12:59,18-06-2024 14:13:00,0.823s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Password_LoginFormpassword""), ""r0h5FLeGCTYg+BkHRFNenXgKWnGicbHL"")",Chrome 126.0.0.0,,,18-06-2024 14:13:00,18-06-2024 14:13:00,0.275s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Sign In""))",Chrome 126.0.0.0,,,18-06-2024 14:13:00,18-06-2024 14:13:00,0.260s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Asrama  Kemahasiswaan""))",Chrome 126.0.0.0,,,18-06-2024 14:13:00,18-06-2024 14:13:04,3.856s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Izin Keluar""))",Chrome 126.0.0.0,,,18-06-2024 14:13:04,18-06-2024 14:13:05,0.815s,PASSED
+"click(findTestObject(""Object Repository/Page_Izin Keluar/a_Request Izin Keluar""))",Chrome 126.0.0.0,,,18-06-2024 14:13:05,18-06-2024 14:13:06,0.885s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Keluar/input_Rencana Berangkat_IzinKeluarrencana_b_bd1150""))",Chrome 126.0.0.0,,,18-06-2024 14:13:06,18-06-2024 14:13:06,0.479s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Keluar/td_18""))",Chrome 126.0.0.0,,,18-06-2024 14:13:06,18-06-2024 14:13:07,0.485s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Keluar/span_1500""))",Chrome 126.0.0.0,,,18-06-2024 14:13:07,18-06-2024 14:13:08,0.687s,PASSED
+"click(findTestObject(""Object Repository/Page_Request Izin Keluar/span_1530""))",Chrome 126.0.0.0,,,18-06-2024 14:13:08,18-06-2024 14:13:08,0.217s,FAILED
